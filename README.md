@@ -1,4 +1,6 @@
-![MasterHead](https://c.tenor.com/TMtf3IDTn84AAAAC/code.gif){center}
+<div style="text-align: center;">
+  ![MasterHead](https://c.tenor.com/TMtf3IDTn84AAAAC/code.gif)
+</div>
 <h1 align="center">Hi 👋, I'm Ridzky Rahim</h1>
 <h3 align="center">Enthusiastic computer science student with a strong interest in web and mobile development. Always learning and excited to share my knowledge.</h3>
 
