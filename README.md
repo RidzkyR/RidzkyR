@@ -1,5 +1,5 @@
 
-[![MasterHead](https://www.gifcen.com/wp-content/uploads/2022/07/discord-banner-gif-7.gif)](https://rishavchanda.io)
+[![MasterHead](https://www.gifcen.com/wp-content/uploads/2022/07/discord-banner-gif-7.gif)
 <h1 align="center">Hi 👋, I'm Ridzky Rahim</h1>
 <h3 align="center">Enthusiastic computer science student with a strong interest in web and mobile development. Always learning and excited to share my knowledge.</h3>
 
