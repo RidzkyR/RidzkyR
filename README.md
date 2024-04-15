@@ -1,4 +1,4 @@
-![MasterHead](https://c.tenor.com/TMtf3IDTn84AAAAC/code.gif)
+<img align="center" alt="Coding" width="400" src="https://global.discourse-cdn.com/codecademy/original/5X/0/0/5/e/005ed969f2c04e6511738fe340ed18230d2e21e5.jpeg">
 <h1 align="center">Hi 👋, I'm Ridzky Rahim</h1>
 <h3 align="center">Enthusiastic computer science student with a strong interest in web and mobile development. Always learning and excited to share my knowledge.</h3>
 
