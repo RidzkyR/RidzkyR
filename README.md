@@ -1,5 +1,5 @@
 ![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/6c0f9b95746151.5e9ecde69599e.gif)
-<h1 align="center">Hi 👋, I'm Ridzky Rahim</h1>
+<h1 align="center">Hi 👋, I'm Ridzky Rahim </h1>
 <h3 align="center">Enthusiastic computer science student with a strong interest in web and mobile development. Always learning and excited to share my knowledge.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ridzkyr&label=Profile%20views&color=0e75b6&style=flat" alt="ridzkyr" /> </p>
