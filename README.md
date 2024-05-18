@@ -46,7 +46,7 @@
 <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> 
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ridzkyr&show_icons=true&locale=en&layout=compact" alt="ridzkyr" /></p>
+// <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ridzkyr&show_icons=true&locale=en&layout=compact" alt="ridzkyr" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ridzkyr&show_icons=true&locale=en" alt="ridzkyr" /></p>
 
