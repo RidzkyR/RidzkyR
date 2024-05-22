@@ -48,6 +48,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ridzkyr&show_icons=true&locale=en&layout=compact" alt="ridzkyr" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ridzkyr&show_icons=true&locale=en" alt="ridzkyr" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ridzkyr&" alt="ridzkyr" /></p>
